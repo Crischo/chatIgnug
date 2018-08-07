@@ -1,0 +1,7 @@
+{
+  "name": "chatIGNUG",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
